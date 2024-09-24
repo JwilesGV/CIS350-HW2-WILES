@@ -21,5 +21,5 @@ Here is a bit into my technical background:
     NDG Linux Essentials Pro
 ```
 
-[!funny angry cat](https://i.pinimg.com/originals/56/a6/14/56a614261d423da1825452363174c685.gif)
+![funny angry cat](https://i.pinimg.com/originals/56/a6/14/56a614261d423da1825452363174c685.gif)
 
