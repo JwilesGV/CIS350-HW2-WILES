@@ -21,5 +21,5 @@ Here is a bit into my technical background:
     NDG Linux Essentials Pro
 ```
 
-![funny angry cat]("C:\Users\Josh Wiles\Desktop\Fall2024\CIS 350\CIS350-HW2-WILES\56a614261d423da1825452363174c685.gif")
+![funny angry cat](./56a614261d423da1825452363174c685.gif)
 
