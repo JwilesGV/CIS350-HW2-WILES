@@ -8,7 +8,6 @@ Here are a few of my interests:
 
 Here is a bit into my technical background:
 - Vice President of the GVSU Hackers Analyzing Threats Club
-- Eagle Scout as a Boy Scout of America
 - Built a fully functional PC from parts and installed Windows 10
 - Certified in the following:
 ```
